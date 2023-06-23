@@ -1,16 +1,24 @@
-### Hi there 👋
+# About Me
 
-<!--
-**fabiopremero/fabiopremero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Fabio Premero :brazil: , a Data Analytics Sr with experience in data analysis, visualization, and data-driven decision-making. I am constantly seeking to learn new technologies and enhance my analytical skills.
 
-Here are some ideas to get you started:
+## Hard Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Proficiency in SQL & Working knowledge of Python
+- Data Visualization
+- Microsoft Office
+- Statistical Analysis
+- Data Cleaning and Data Wrangling and Data Transformation
+- Business Intelligence tools (e.g., Tableau, Power BI)
+
+## Soft Skills
+
+- Analytical Thinking
+- Communication
+- Problem-Solving
+- Attention to Detail
+- Curiosity and Continuous Learning
+
+## Contact
+- LinkedIn: [Fabio Premero](https://www.linkedin.com/in/fabio-premero/)
+- Email: fabio.premero@hotmail.com
